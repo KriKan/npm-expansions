@@ -671,6 +671,7 @@ npm packaged modules
 npm's personal messenger
 npm pretty much
 npm private modules
+npm probably manages
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
